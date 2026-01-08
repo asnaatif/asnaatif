@@ -69,11 +69,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
        alt="Flask" width="40" height="40" style="filter: invert(100%); padding:5px;" />
-</a><!-- Cryptography / Security -->
-<a href="https://pycryptodome.readthedocs.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-security-cyber-security-flat-flat-juicy-fish.png"
-       alt="Cryptography" width="40" height="40" style="padding:5px;" />
-</a>
+
 
 <!-- AES / Encryption -->
 <a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer">
@@ -122,12 +118,6 @@
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png"
        alt="CNN / Deep Learning" width="40" height="40" />
-</a>
-
-<!-- Medical Imaging (MRI) -->
-<a href="https://en.wikipedia.org/wiki/Medical_imaging" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/mri-scan.png"
-       alt="Medical Image Analysis" width="40" height="40" />
 </a>
 
 <!-- Explainable AI -->
