@@ -65,5 +65,56 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" style="padding:5px;"/>
   </a>
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+       alt="Flask" width="40" height="40" style="filter: invert(100%); padding:5px;" />
+</a><!-- Cryptography / Security -->
+<a href="https://pycryptodome.readthedocs.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-security-cyber-security-flat-flat-juicy-fish.png"
+       alt="Cryptography" width="40" height="40" style="padding:5px;" />
+</a>
 
+<!-- AES / Encryption -->
+<a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/lock--v1.png"
+       alt="AES Encryption" width="40" height="40" style="padding:5px;" />
+</a>
+
+
+<!-- RSA -->
+<a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/key-security.png"
+       alt="RSA" width="40" height="40" style="padding:5px;" />
+</a>
+
+<!-- SHA-256 / Hashing -->
+<a href="https://en.wikipedia.org/wiki/SHA-2" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/fingerprint.png"
+       alt="SHA-256" width="40" height="40" style="padding:5px;" />
+</a>
+
+<!-- TCP / Networking -->
+<a href="https://docs.python.org/3/library/socket.html" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/network.png"
+       alt="TCP Sockets" width="40" height="40" style="padding:5px;" />
+</a>
+
+<!-- Tkinter -->
+<a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/application-window.png"
+       alt="Tkinter GUI" width="40" height="40" style="padding:5px;" />
+</a>
+
+<!-- Key Management -->
+<a href="https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/private2.png"
+       alt="PEM Keys" width="40" height="40" style="padding:5px;" />
+</a>
+
+<!-- Testing -->
+<a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/test-passed.png"
+       alt="Testing" width="40" height="40" style="padding:5px;" />
+</a>
 </p>
