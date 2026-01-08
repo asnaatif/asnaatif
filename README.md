@@ -117,4 +117,40 @@
   <img src="https://img.icons8.com/color/48/test-passed.png"
        alt="Testing" width="40" height="40" style="padding:5px;" />
 </a>
+
+<!-- CNN / Deep Learning -->
+<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png"
+       alt="CNN / Deep Learning" width="40" height="40" />
+</a>
+
+<!-- Medical Imaging (MRI) -->
+<a href="https://en.wikipedia.org/wiki/Medical_imaging" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/mri-scan.png"
+       alt="Medical Image Analysis" width="40" height="40" />
+</a>
+
+<!-- Explainable AI -->
+<a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/visible.png"
+       alt="Explainable AI" width="40" height="40" />
+</a>
+
+<!-- Grad-CAM / Heatmaps -->
+<a href="https://arxiv.org/abs/1610.02391" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/heat-map.png"
+       alt="Grad-CAM" width="40" height="40" />
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+       alt="NumPy" width="40" height="40" />
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+       alt="Jupyter Notebook" width="40" height="40" />
+</a>
 </p>
